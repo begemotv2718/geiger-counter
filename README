@@ -1,0 +1,6 @@
+Simple GPIO module for geiger counter. The code is mostly a modified version
+of 
+http://morethanuser.blogspot.hu/2013/04/raspbery-pi-gpio-interrupts-in-kernel.html
+and
+http://www.tldp.org/LDP/lkmpg/2.6/html/lkmpg.html
+.
